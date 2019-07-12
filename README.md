@@ -32,5 +32,5 @@ Written for Python 3. Required packages:
 ![Alt text](images/phi1.png?raw=true "phi1")
 
 
-*Head difference layer 1 and layer 5
+*Head difference layer 1 and layer 5*
 ![Alt text](images/dphi1_phi5.png?raw=true "dphi1_5")
