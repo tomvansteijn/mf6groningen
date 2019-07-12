@@ -28,4 +28,4 @@ Written for Python 3. Required packages:
 
 ## Example output
 ![Alt text](images/phi1.png?raw=true "phi1")
-![Alt text](images/dphi1_5.png?raw=true "dphi1_5")
+![Alt text](images/dphi1_phi5.png?raw=true "dphi1_5")
